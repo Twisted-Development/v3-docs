@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
-* [📀 Rent a FiveM Server](https://twisteddev.gitbook.io/introduction/)
+* [📀 Rent a FiveM Server](https://fivemshops.com)
 
 ## Guides
 
@@ -12,7 +12,7 @@
 * [📝 Visual Studio Code](guides/visual-studio-code.md)
 * [🔗 Useful Links](guides/useful-links.md)
 
-## QB-Core
+## Core
 
 * [📜 Shared](qb-core/shared.md)
 * [↗ Shared Exports](qb-core/shared-exports.md)
@@ -24,7 +24,7 @@
 * [🖥 Server Function Reference](qb-core/server-function-reference.md)
 * [❗ Commands](qb-core/commands.md)
 
-## QB core resources
+## Resources
 
 * [🔧 qb-adminmenu](qb-core-resources/qb-adminmenu.md)
 * [🚑 qb-ambulancejob](qb-core-resources/qb-ambulancejob.md)
