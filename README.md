@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome! Twisted Development and its subsidiaries is a grup of ever-expanding
+  Welcome! Twisted Development and its subsidiaries is a group of ever-expanding
   Development for Grand Theft Auto V utilizing the FiveM platform.
 ---
 
