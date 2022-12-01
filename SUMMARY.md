@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
-* [📀 Rent a FiveM Server](put partner host here)
+* [📀 Rent a FiveM Server](https://twisteddev.gitbook.io/introduction/)
 
 ## Guides
 
