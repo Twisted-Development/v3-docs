@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Introduction](README.md)
-* [📀 Rent a FiveM Server](https://fivemshops.com)
+* [📀 Rent a FiveM Server](put partner host here)
 
 ## Guides
 
